@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">The Wall</string>
+    <string name="action_settings5">Exit</string>
+    <string name="action_settings4">Settings</string>
+    <string name="action_settings6">Help</string>
+    <string name="info">
+        Rahul Dravid commonly known as " THE WALL "  in the circle of cricket is one of the finest batsmen of all time.
+        He was born in a Marathi family,brought up in Bangalore and played cricket for Karnataka.
+    </string>
+    <string name="info1">
+
+        He captained INDIA from 2004-2007.
+    </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="awards">"ARJUNA AWARD IN 1998\n"
+       "\nCEAT INTERNATIONAL CRICKETER OF THE YEAR IN 1999\n"
+        "\nWISDEN CRICKETER OF THE YEAR IN 2000\n"
+        "\nICC PLAYER OF THE YEAR IN 2004\n"
+        "\nICC CRICKETER OF THE YEAR IN 2004\n"
+        "\nICC TEST PLAYER OF THE YEAR IN 2004\n"
+        "\nCAPTAIN OF ICC TEST TEAM\n"
+        "\nPADMASHRI IN 2004\n"
+        "\nDON BRADMAN AWARD IN 2012\n"
+        "\nPADMA BHUSHAN IN 2013"
+        "\nWISDEN INDIA's HIGHEST IMPACT TEST BATSMEN IN 2015\n"
+        "\n\n\nPLAYED 94 TEST MATCHES CONTINOUSLY AFTER HIS TEST DEBUT.\n"
+        "\nTHIRD HIGHEST RUN GETTER OF ALL TIME IN HISTORY OF CRICKET.\n"
+        "\nONLY CRICKETER TO SCORE MORE THAN 10000 RUNS BATTING AT no. 3\n"
+        "\nMOST NUMBER OF CATCHES IN CRICKET.\n"
+        "\nONLY INTERNATIONAL CRICKETER TO SCORE HUNDRED IN ALL TEST PLAYING NATIONS.\n"
+        "\nONLY INDIAN CRICKETER TO SCORE 4 CONSECUTIVE HUNDREDS IN INTERNATIONAL CRICKET.\n"
+        "\nFACED MOST NUMBER OF BALLS IN TEST CRICKET."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Survey</string>
+    <string name="title_activity_scrolling1">ScrollingActivity1</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="i1">"Sachin is god of cricket, "
+        "Ganguly is god of off-side\n"
+        "Laxman is god of 4th innings chase\n"
+        "But,when the doors of temple are closed "
+        "even God is behind "
+    </string>
+    <string name="i2">"THE WALL\n"</string>
+    <string name="i3">"\nHe has set a great example for all of us to follow"
+        " and we are all struggling to follow that path - Sachin Tendulkar\n"
+"\nDravid's remarkable career is proof that nice guys don't finish last - Steve Waugh\n"
+"\nHe is truly the mainstay of the Indian batting. He is the best batsman of India in this era undoubtedly - Kapil Dev\n"
+"\nSome succeeded because they are destined to, but he succeeded because he was Determined to - Navjot Singh Siddhu\n"
+"\nThe wolf who lived for the pack - Harsha Bhogle\n"
+"\nHe's probably the nicest guy. No, he is the nicest guy that I have met in cricket. He's a phenomenal man - Shane Watson\n"
+"\nI've seen how Rahul goes about his innings and that's something I want to get myself involved with - Kevin Pietersen"
+</string>
+<string name="i4">"He is regarded by the Australians as one of the mentally toughest players they have come up against. He is a tough task competitor. He is a wonderful cricketer for India," a great, great cricketer. - John Wright"
+ "\nChampion on and off the field, showed us with his great hard work, sky is the limit - Mahesh Bhupathi"
+ "\nElegant at the crease, Eloquent in Retirement, thanks for the memories - ESPN"
+ "\nTime and Tide waits for nobody, except Rahul Dravid - MTV India"
+ "\nIf a martian were to land on earth now and be told that the best batsman in the world was playing in this match, he would think it was Rahul Dravid and not Sachin Tendulkar - Christopher Martin-Jenkins"
+    "\nI have also not seen him lose his temper. He has that uncanny skill of keeping his frustrations to himself.He hates to get out though and you can see the restlessness in him till he gets his act together in the next outing.He is the most hard working guy in the side. - JAVAGAL SRINATH\n"
+    "\nAll this going around is not aggression. If you want to see aggression on cricket field, look into Rahul Dravid’s eyes - MATHEW HAYDEN\nTeam in trouble? Whom do you turn to? Rahul Dravid! - IAN CHAPPEL\n”
+    "\nEven though Sachin is great, I have always found Rahul more solid and hard to get out. He has a solid defense and plays less shots than others. When a batsman plays less shots than it is tough to get him as he makes less mistakes. - SHOAIB AKHTAR\n"
+
+</string>
+    <string name="i5">"If Sachin is the Superman of Indian cricket"
+        " universe, then Rahul Dravid is THE DARK KNIGHT " </string>
+    <string name="i6">"If Tendulkar's life is about enthusiasm,"
+        "\nDravid's is about determination. "
+        "\nIf Tendulkar is the child splashing colour about with glee,"
+        "\nDravid is the scientist in a relentless search for progress."
+        "\nTendulkar might have been a Formula One driver or a striker in a goalmouth,"
+        "\nDravid would have been an Olympic shooter.\n"
+</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="about">"Rahul Dravid commonly known as " THE WALL "  in the circle of cricket is one of the finest batsmen of all time.He was born in a Marathi family,brought up in Bangalore and played cricket for Karnataka.\n"
+        "\nRahul Dravid was probably one of the last classical Test match batsmen. His progress into the national side may have been steady and methodical rather than meteoric, but once there, Dravid established himself at the vanguard of a new, defiant generation that were no longer easybeats away from home. Armed with an orthodox technique drilled into him by Keki Tarapore, he became the cement that held the foundations firm while the flair players expressed themselves. Yet, for a man quickly stereotyped as one-paced and one-dimensional, he too could stroke the ball around when the mood struck him.\n"
+"\n\nNever a natural athlete, he compensated with sheer hard work and powers of concentration that were almost yogic. At Adelaide in 2003, when India won a Test in Australia for the first time in a generation, he batted 835 minutes over two innings. A few months later, he was at the crease more than 12 hours for the 270 that clinched India's first series win in Pakistan. Initially seen as a liability in the one-day arena, he retooled his game over the years to become an adept middle-order finisher. The heaves and swipes didn't come naturally, but by the time the selectors eased him aside in early 2008, he had more than 10,000 runs to his name in the 50-over game. There had also been a lengthy phase where he donned the wicketkeeping gloves, helping the team to find a balance that was crucial in the run to the World Cup final in 2003.\n"
+"\n\nHowever, it's his Test exploits that he will be most remembered for. After impressing in a Lord's debut where he was eclipsed by Sourav Ganguly, Dravid's breakthrough innings arrived at the Wanderers a few months later, against a South African attack accustomed to bullying visitors. A brief slump followed, but he emerged from that with perhaps one of the most famous supporting acts of all, to VVS Laxman in an Eden Gardens Test that rejuvenated Indian cricket. The half decade that followed was a golden one with the bat, as tours of England and Australia realised more than 600 runs.\n"
+"\n\nA two-year stint as captain, following Ganguly's axing, was less successful, though he did lead the side to series victories in England and the West Indies for the first time in a generation. Just when it seemed his best was behind him, Dravid showed his class once again on the tour to England in 2011. In a series in which India were completely outplayed and none of their other batsmen scored more than 275 runs in the Tests, Dravid amassed 461, including three hundreds, two of them when opening the innings against a high-quality pace attack. However, that was followed by a poor series in Australia, which turned out to be his last, as he announced his retirement soon after returning to India.\n"
+"\n\nDravid's immense levels of concentration also came in handy when he was standing in the slips. Most of his catches were taken in that cordon as he overtook Mark Waugh to become the most successful slip catcher in history.\n"
+"\n - DILEEP PREMCHANDANA(ESPN)"
+    </string>
+
+    <string name="a1">tests</string>
+    <string name="a2">One day internationals</string>
+    <string name="a3">partnership records</string>
+    <string name="a4">world cup records</string>
+    <string name="a5">captaincy record</string>
+    <string name="a6">other records</string>
+    <string name="a7">captaincy records</string>
+
+    <string name="achieve">"Dravid holds the world record for being the first (and only) non-wicketkeeper to take 200 catches in Test cricket. As of 27-12-2010, he is way ahead of Mark Waugh (181 catches) and Ricky Ponting (177 catches)"
+    "\n\nDravid is the second only next to Sachin Tendulkar to score more than 13,000 test runs."
+    "\n\nDravid is the second highest run getter in the world in tests."
+    "\n\nHas been involved in the most century partnerships in Test history – 85 (23 nov 2009)."
+    "\n\nScored nearly 23% of the total runs put up by India (with a batting average of 102.84) in the 21 Test matches won under Ganguly's captaincy. This is the highest percentage contribution by any batsman in Test cricket history in matches won under a single captain where the captain has won more than 20 Tests."
+    "\n\n2nd longest streak of consecutive Tests since debut (93 + 1 in ICC XI) missed 95th test at Ahmedabad due to fever, behind Adam Gilchrist (96)."
+    "\n\nFirst player to score a century against every Test playing nation away from home,"
+    "\n\nInvolved in highest partnership made away from home for any wicket for India with vice captain Virender Sehwag of 410 runs vs Pakistan at Lahore in 2006 (also, the highest partnership between a captain and the vice captain). Only Pankaj Roy and Vinoo Mankad have scored more runs in a partnership for India, 413 vs New Zealand in Chennai (6–11 Jan 1956)."
+    "\n\nDravid is one among the only three batsmen to hit Test centuries in four consecutive innings. The other two are Jack Fingleton and Alan Melville. Dravid achieved this by hitting scores of 115, 148, 217 and 100* in three successive matches against England and one against the West Indies. Only Everton Weekes, with centuries in five consecutive innings, has achieved a longer sequence of consecutive Test hundreds."
+    "\n\nWith scores of 50 or more in 7 consecutive Tests Dravid is behind only to Tendulkar (8) and Gambhir (11) among Indian batsmen. Gambhir and Viv Richards hold the world record with 11."
+    "\n\nHe is currently 2nd among batsmen who have scored most away runs in Tests (6430 as of April 2009). Only Sachin Tendulkar (7165) has scored more away Test runs."
+    "\n\nHe has played 150 innings of 94 tests at number 3. He has scored more than 10000 runs at this position. Both feats are world records."
+    "\n\n2nd Indian batsman to score twin hundreds in a Test twice, after Sunil Gavaskar. Gavaskar and Ponting are the only batsmen to score twin hundreds in a Test thrice."
+    "\n\nOne of only three Indians to score 5 double hundreds.(each bigger than the previous 200* vs Zimbabwe, 217 vs England, 222 vs New Zealand, 233 vs Australia, 270 vs Pakistan). In fact, along with Virender Sehwag and Sachin Tendulkar, he is one of only three Indians to score 190+ on seven occasions."
+    "\n\nPartnering with Tendulkar, has scored more runs than any other pair, excluding opening pairs. They are the 3rd best in terms of total number of partnership runs scored by a pair in test cricket."
+    "\n\nDravid has faced highest number of deliveries in test cricket, more than Allan Border's previous record of 27002 deliveries."
+    "\n\nOn 21 August 2011 while playing against England ,he became first batsmen in the history of Test Cricket to face 30,000 balls." </string>
+     
+    <string name="achieve1">"Dravid is the 3rd Indian (6th in World) to score more than 10,000 ODI runs."</string>
+
+        <string name="achieve2">"The only batsman to have been involved in two ODI partnerships exceeding 300 runs."
+    "\nFirst batsman to be involved in a 300 run partnership in a Cricket World Cup along with Sourav Ganguly in the 1999 World Cup match against Sri Lanka at Taunton."
+    "\nInvolved in all three highest 4th wicket partnerships against South Africa, two with Yuvraj Singh."
+    "\nInvolved in the highest partnership in the history of ODI cricket with a 331 run partnership along with Sachin Tendulkar vs New Zealand at Hyderabad in 1999–2000."
+    "\nInvolved in highest 3rd wicket partnership in ODI history with Sachin Tendulkar – 237 runs against Kenya in 1999."</string>
+
+
+    <string name="achieve3">"He was the leading run scorer in the 1999 World Cup with 461 runs."
+    "\nHas the 2nd highest score (145) by a wicketkeeper in a World Cup behind AC Gilchrist(149)."
+    "\nHe was only the second wicketkeeper-batsman after Zimbabwean Dave Houghton to score an ODI hundred in the World Cup."
+    "\nHe was the second batsman after Mark Waugh to score back-to-back hundreds in the World Cup"</string>
+
+
+    <string name="achieve4">"He is tied with Sachin Tendulkar in fourth place for having captained India in the most victorious matches"</string>
+
+    <string name="achieve5">"Has the record of not being dismissed on duck for 120 consecutive ODI matches."
+    "\n3rd Highest number of fifties, after India's Sachin Tendulkar (93) and Pakistan's Inzamam-ul-Haq (83) at 82."</string>
+
+        <string name="achieve6">"Rahul Dravid is only one of two Indians to be the top scorer in a World Cup (the other is Sachin Tendulkar). He amassed 461 runs in the 1999 World Cup, the first World Cup he played."
+    "\n\nRahul Dravid led India to a historic Test series win, against the West Indies in their home soil in 2006. Since 1971, India had never won a Test series in the West Indies. This was also their first prominent series win outside the Indian subcontinent (barring the win against Zimbabwe in 2005) since 1986."
+    "\n\nUnder Dravid's captaincy the Indian team tied the previous record of most consecutive One-Day International wins for an Indian team thus equalling the record run that the Indian team had achieved under Sourav Ganguly in the 2003 World Cup in South Africa. This was later beaten by Mahendra Singh Dhoni who led Indian team to 9 consecutive victories in 2008–2009."
+    "\n\nDuring his captaincy the Indian team broke the record for most consecutive won matches in One-Day Internationals while batting second (previously held by the West Indies). For this 17 match run, Dravid was the captain for 15 matches and Sourav Ganguly was the captain for the other two. This streak was broken on 20 May 2006, when India lost to the West Indies by one run, at Sabina Park, Jamaica."
+    "\n\nRahul Dravid was the first captain to lead India to a Test match victory against South Africa on South African soil."
+    "\n\nHe became only the third captain from India to win a Test series in England. The other two captains being Kapil Dev (1986) and Ajit Wadekar (1971)."
+    "\n\nHe has hit 10,000 runs in both tests and one day internationals, making him only the third batsmen after Tendulkar and Lara to achieve this feat. Only Ricky Ponting has since equalled this feat."
+
+    "\n\nHe holds the record of number of catches in Test cricket by a non-wicket keeper."
+    </string>
+    <string name="title_activity_sign_up_activity">Sign_up_activity</string>
+    <string name="email">Login </string>
+    <string name="hint_password">Password</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+    <string name="btn_link_to_login">Already Registered. Login Me!!</string>
+    <string name="action">Register</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="btn_link_to_register">Not Registered Yet !! Click to register </string>
+    <string name="hint_email">Email</string>
+    <string name="btn_login">Login</string>
+    <string name="minimum_password">Password length should be minimum 6</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="title_activity_reset_password">ResetPassword</string>
+    <string name="lbl_forgot_password">Forgot Password ?</string>
+    <string name="btn_reset_password">RESET PASSWORD</string>
+    <string name="forgot_password_msg">We just need your email id to reset your password. Follow the instructions.</string>
+    <string name="btn_back"> --> Back</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="app_name1">Facebook Comments</string>
+    <string name="title_activity_comments">Comments</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_refresh">Reload</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="new_pass">Change Password</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send mail</string>
+    <string name="btn_remove">Remove account</string>
+    <string name="change_email">Change email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Password reset</string>
+    <string name="remove_user">Remove</string>
+    <string name="title_activity_gallerygrid">Gallerygrid</string>
+
+    <string name="intro">I have failed at times, but i never stopped trying.  - Rahul Dravid</string>
+
+
+</resources>

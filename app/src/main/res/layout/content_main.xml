@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.atul.basic.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <!--
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/table1"
+        android:padding="30dp"
+        android:textAlignment="center"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+        <TableRow
+            android:layout_margin="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="1"
+                android:text="              DEBUT  "
+                android:textSize="15dp"/>
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="2"
+                android:text="YEAR  "
+                android:textSize="15dp"/>
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="3"
+                android:text="Opponent"
+                android:textSize="15dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_margin="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="1"
+                android:text="              Ranji"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="2"
+                android:text="1991"
+                android:textSize="15dp"/>
+            <TextView
+                android:layout_column="3"
+                android:textColor="@color/color2"
+                android:text="Uttar Pradesh"
+                android:textSize="15dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_margin="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="1"
+                android:text="              Tests"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="2"
+                android:text="1996"
+                android:textSize="15dp"/>
+            <TextView
+                android:layout_column="3"
+                android:textColor="@color/color2"
+                android:text="England"
+                android:textSize="15dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="1"
+                android:text="              ODI"
+                android:textSize="15dp"/>
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="2"
+                android:text="1996"
+                android:textSize="15dp"/>
+            <TextView
+                android:layout_column="3"
+                android:textColor="@color/color2"
+                android:text="Sri Lanka"
+                android:textSize="15dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_height="30px"
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="1"
+                android:text="              T20I"
+                android:textSize="15dp"/>
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="2"
+                android:text="2012"
+                android:textSize="15dp"/>
+            <TextView
+                android:textColor="@color/color2"
+                android:layout_column="3"
+                android:text="England"
+                android:textSize="15dp"/>
+        </TableRow>
+
+    </TableLayout > -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview3"
+        android:text="@string/info"
+        android:textColor="@color/color2"
+        android:layout_alignBottom="@+id/image2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview1"
+        android:text="Rahul Dravid"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textAllCaps="true"
+        android:textSize="40dp"
+        android:textColor="@color/color1"
+        android:layout_above="@+id/image2"
+        android:layout_alignRight="@+id/button2"
+        android:layout_alignEnd="@+id/button2" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image2"
+        android:src="@drawable/fab42"
+        android:layout_alignTop="@+id/imageview1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="23dp" />
+
+    <ImageView
+        android:layout_width="450dp"
+        android:layout_height="130dp"
+        android:id="@+id/imageview1"
+        android:src="@drawable/ic_action_name"
+        android:layout_marginTop="44dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="156dp"
+        android:layout_height="56dp"
+        android:text="Awards"
+        android:clickable="true"
+        android:longClickable="true"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/button1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="156dp"
+        android:layout_height="56dp"
+        android:id="@+id/button2"
+        android:background="@color/colorPrimary"
+        android:clickable="true"
+        android:longClickable="true"
+        android:text="Quotes"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button1"
+        android:layout_toEndOf="@+id/button1" />
+
+    <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/info1"
+      android:id="@+id/textview2"
+      android:textColor="@color/color2"
+        android:layout_below="@+id/textview3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
